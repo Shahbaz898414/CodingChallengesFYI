@@ -33,17 +33,28 @@ Description
 ## |
 
 |
+|
 
 - [Build your own wc Tool](Solutions/challenge-wc.md)
+  |
 - [Build your own JSON Parser](Solutions/challenge-json-parser.md)
+  |
 - [Build your own Compression Tool](Solutions/challenge-huffman.md)
+  |
 - [Build your own cut Tool](Solutions/challenge-cut.md)
+  |
 - [Build your own Load Balancer](Solutions/challenge-load-balancer.md)
+  |
 - [Build your own Sort Tool](Solutions/challenge-sort.md)
+  |
 - [Build your own Calculator](Solutions/challenge-calculator.md)
+  |
 - [Build your own Redis Server](Solutions/challenge-redis.md)
+  |
 - [Build your own grep](Solutions/challenge-grep.md)
+  |
 - [Build your own uniq](Solutions/challenge-uniq.md)
+  |
 
 ### JavaScript
 
