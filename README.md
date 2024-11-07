@@ -7,15 +7,19 @@ Publicly shared solutions to the [Coding Challenges](https://codingchallenges.fy
 Join the [Discord Community](https://discord.gg/zv4RKDcEKV).
 
 ### How To Add Your Solution
+
 To add your solution follow the process for [making a pull request to an open-source project](https://github.com/gabrieldemarmiesse/getting_started_open_source).
 
 Essentially:
+
 1. Fork this repo and clone it.
 2. Create a branch and make your change.
 3. Push your branch to your fork.
 4. Open a PR against this repo.
 
 ## Table of Contents
+
+### Python
 
 - [Build your own wc Tool](Solutions/challenge-wc.md)
 - [Build your own JSON Parser](Solutions/challenge-json-parser.md)
@@ -27,6 +31,9 @@ Essentially:
 - [Build your own Redis Server](Solutions/challenge-redis.md)
 - [Build your own grep](Solutions/challenge-grep.md)
 - [Build your own uniq](Solutions/challenge-uniq.md)
+
+### JavaScript
+
 - [Build your own Web Server](Solutions/challenge-webserver.md)
 - [Build your own URL Shortener](Solutions/challenge-url-shortener.md)
 - [Build your own diff](Solutions/challenge-diff.md)
@@ -37,6 +44,9 @@ Essentially:
 - [Build your own Spotify Client](Solutions/challenge-spotify.md)
 - [Build your own Discord Bot](Solutions/challenge-discord.md)
 - [Build your own LinkedIn Carousel Generator](Solutions/challenge-licg.md)
+
+### Java
+
 - [Build your own sed](Solutions/challenge-sed.md)
 - [Build your own DNS Resolver](Solutions/challenge-dns-resolver.md)
 - [Build your own Traceroute](Solutions/challenge-traceroute.md)
@@ -56,6 +66,9 @@ Essentially:
 - [Build your own HTTP(S) Load Tester](Solutions/challenge-load-tester.md)
 - [Build Your Own Data Privacy Vault](Solutions/challenge-data-privacy-vault.md)
 - [Build Your Own Password Cracker](Solutions/challenge-password-cracker.md)
+
+### Other Languages
+
 - [Build Your own Spell Checker using Bloom Filter](Solutions/challenge-bloom-filter-spell-checker.md)
 - [Build Your Own Tar](Solutions/challenge-tar.md)
 - [Build Your own Xxd](Solutions/challenge-xxd.md)
