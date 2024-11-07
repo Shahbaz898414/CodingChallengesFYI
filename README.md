@@ -21,6 +21,19 @@ Essentially:
 
 ### Python
 
+|
+Challenge
+|
+Description
+|
+|
+
+---
+
+## |
+
+|
+
 - [Build your own wc Tool](Solutions/challenge-wc.md)
 - [Build your own JSON Parser](Solutions/challenge-json-parser.md)
 - [Build your own Compression Tool](Solutions/challenge-huffman.md)
